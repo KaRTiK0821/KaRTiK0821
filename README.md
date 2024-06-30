@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**KaRTiK0821/KaRTiK0821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class KaRTiK():
+    def __init__(self):
+        self.name = ['Kartik Samnotra']
+        self.country = ['India']
+        self.language = ['English', 'Hindi']
+    def programming_languages(self):
+        return [
+            'Python', 'Java', 'Shell', 'JavaScript'
+        ]
+    def developer_tools(self):
+        return [
+            'GitHub', 'Stack Overflow', 'Sublime'
+            'Visual Studio Code', 'Oracle Cloud', 'Termux'
+        ]
+    def operating_system(self):
+        return [
+            'Linux', 'Windows', 'Android', 'IOS'
+        ]
+    def linux_distros(self):
+        return [
+            'Ubuntu', 'Mint', 'ArchLinux'
+        ]
+    def windows_os(self):
+        return [
+            'Windows 11', 'Windows 10'
+        ]
