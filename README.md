@@ -1,28 +1,38 @@
-## Hi there 👋
+<img height="140px" width="500px" src="https://github-readme-stats.vercel.app/api?username=KaRTiK0821&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight"/>
 
-class KaRTiK():
+# Interests
+
+- The Things i like to do : Development, Latest Tech releases, Custom Roms, Linux Distros'
+- [Telegram](https://t.me/MrKiTKaT09)
+- [XDA](https://xdaforums.com/m/mr-kitkat.11631037)
+- [Sourceforge](https://sourceforge.net/u/kartik0821/profile)
+
+## About me.
+```python
+class el0xren():
     def __init__(self):
-        self.name = ['Kartik Samnotra']
+        self.name = ['kartik']
         self.country = ['India']
-        self.language = ['English', 'Hindi']
+        self.language = ['Hindi', 'English']
     def programming_languages(self):
         return [
-            'Python', 'Java', 'Shell', 'JavaScript'
+            'Python', 'Bash', 'Shell', 'Java', 'Javascript'
         ]
     def developer_tools(self):
         return [
-            'GitHub', 'Stack Overflow', 'Sublime'
+            'GitHub', 'Stack Overflow', 'Docker',
             'Visual Studio Code', 'Oracle Cloud', 'Termux'
         ]
     def operating_system(self):
         return [
-            'Linux', 'Windows', 'Android', 'IOS'
+            'Linux', 'Windows', 'Android'
         ]
     def linux_distros(self):
         return [
-            'Ubuntu', 'Mint', 'ArchLinux'
+            'Ubuntu', 'Mint', 'KaliLinux', 'ArchLinux'
         ]
     def windows_os(self):
         return [
             'Windows 11', 'Windows 10'
         ]
+```
