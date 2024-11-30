@@ -2,7 +2,7 @@
 
 # Interests
 
-- The Things i like to do : Development, Latest Tech releases, Custom Roms, Linux Distros'
+- Things i like to do : Development, Latest Tech releases, Custom Roms, Linux Distros'
 - [Telegram](https://t.me/MrKiTKaT09)
 - [XDA](https://xdaforums.com/m/mr-kitkat.11631037)
 - [Sourceforge](https://sourceforge.net/u/kartik0821/profile)
