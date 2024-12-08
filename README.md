@@ -34,5 +34,13 @@ class KaRTiK0821():
     def windows_os(self):
         return [
             'Windows 11', 'Windows 10'
+    def interests(self):
+        return [
+            'Coding', 'Graphic Design', 'Gaming', 'Fitness', 'Content Creation', 'Architecture'
+    ]
+
         ]
+    def fun_fact(self):
+        return "I explore Android system files and try to understand their configuration."
+    
 ```
