@@ -2,7 +2,7 @@
 
 # Interests
 
-- Things i like to do : Development, Latest Tech releases, Custom Roms, Linux Distros'
+- Things I like : Development, Latest Tech releases, Custom Roms, Linux Distros'
 - [Telegram](https://t.me/MrKiTKaT09)
 - [XDA](https://xdaforums.com/m/mr-kitkat.11631037)
 - [Sourceforge](https://sourceforge.net/u/kartik0821/profile)
@@ -34,11 +34,10 @@ class KaRTiK0821():
     def windows_os(self):
         return [
             'Windows 11', 'Windows 10'
+        ]
     def interests(self):
         return [
             'Coding', 'Graphic Design', 'Gaming', 'Fitness', 'Content Creation', 'Architecture'
-    ]
-
         ]
     def fun_fact(self):
         return "I explore Android system files and try to understand their configuration."
